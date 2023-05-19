@@ -16,7 +16,7 @@ What hours will you be available to communicate?
 
 What platform will you use to communicate (ie. Slack, phone …)?
 
-- Slack
+- Slack, Remo
 
 How often will you take breaks?
 
@@ -24,8 +24,9 @@ How often will you take breaks?
 
 What is your plan if you start to fall behind?
 
-- We'll decide to take a little extra time and plan out what needs to be done. Before or after class with a fresh mind
-Potentially reevaluate goals and features, and complete what needs to be done for a working MVP.
+- We will choose to allocate some additional time to strategize the necessary tasks. This will be done either before 
+  or after class, when our minds are refreshed. We may also consider reassessing our objectives and functionalities, 
+  and diligently accomplish all the essential elements required for a functional minimum viable product (MVP).
 
 How will you communicate after hours and on the weekend?
 
@@ -33,11 +34,11 @@ How will you communicate after hours and on the weekend?
 
 What is your strategy for ensuring everyone’s voice is heard?
 
-- We will do a daily meet to check on progress with each member, where we address issues, code challenges and set goals for the day.
+- Every day, we will hold a meeting to monitor the progress of each team member, during which we will discuss any problems, coding obstacles, and establish daily objectives.
 
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 
-- We will keep open communication and an inclusive and non hostile environment
+- Our commitment is to maintain open lines of communication and foster an environment that is inclusive and free from hostility.
 
 </details>
 
@@ -47,22 +48,24 @@ How will you ensure that you are creating a safe environment where everyone feel
 
 Make a list of each parson’s strengths.
 
-- James: Adaptable
-- Ethan: 
+- James: Adaptable, communication
+- Ethan: Technical ability, problem solving
 
 
 How can you best utilize these strengths in the execution of your project?
 
-- We will help each other through the process using our different strengths to cover another's possible weaknesses and learn from each other wherever possible. 
+- Together, we will assist one another throughout the journey, leveraging our unique abilities to compensate for 
+  potential shortcomings and share knowledge from each other whenever feasible.
 
 In which professional competencies do you each want to develop greater strength?
 
 - James: Understanding documentation and being better at coding in general
-- Ethan: 
+- Ethan: Organization, vision of project
 
 Knowing that every person in your team needs to understand the code, how do you plan to approach the day-to-day development?
 
-- We will do our best to write idiomatic and meaningful code, so it is understandable by everyone on the group
+- We will strive to produce code that is both idiomatic and meaningful, ensuring comprehension for all members of 
+  the team.
 
 </details>
 
@@ -73,27 +76,28 @@ Knowing that every person in your team needs to understand the code, how do you 
 
 What will be your group’s process to resolve conflict, when it arises?
 
-- We will write out our conflicts and get a third party involved to give advice on how to move forward. We will also talk out our issue first before the become a problem.
+- Our approach involves documenting our conflicts and seeking the input of a neutral third party to provide guidance on progressing. Furthermore, we will engage in open communication to address any concerns before they escalate into significant problems.
 
 What will your team do if one person is pulling all the weight while the other person is not contributing?
 
-- Give that person driver responsibility or otherwise have them help the team. We can also have them in a navigator role to help another member who is not a strong learn.
+- Assign the individual with driving duties or involve them in supporting the team. Alternatively, they can assume 
+  the role of a navigator to assist a team member who struggles with learning. 
 
 What will your team do if one person is taking over the project and not letting the other member contribute?
 
-- Have a meeting and separate the tasks so it doesn't belong to one person. 
+- Convene a meeting to distribute the tasks, ensuring that they are not assigned to a single individual.
 
 How will you approach each other and the challenge of building an application knowing that it is impossible for two people to be at the exact same place in understanding and skill level?
 
-- Be patient and have a more confident person navigate while the person who may not be at the same skill drives.
+- Exercise patience and allow a more self-assured individual to guide the less skilled driver.
 
 How will you raise concerns to members who are not adequately contributing?
 
-- We will raise these concerns in a meeting and task them appropriately.
+- We will address these concerns during a meeting and assign suitable actions accordingly.
 
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
 
-- Get a third party involved when it becomes detrimental to the progress of the project
+- When the project's advancement is compromised, seek the assistance of an external party.
 
 </details>
 
@@ -101,14 +105,14 @@ How and when will you escalate the conflict if your resolution attempts are unsu
 
 <details closed><summary>Expand</summary>
 
+How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
 
-- How you will identify tasks, assign tasks, know when they are complete, and manage work in general?
+- During our morning standups, we will review the tasks to be completed, allocate assignments based on individual 
+comfort levels, and then conclude for the day.
 
-Through daily morning standups, we'll go over what needs to be accomplished and assign tasks based on what we feel comfortable doing and break for the day.
+What project management tool will be used?
 
-- What project management tool will be used?
-
-Trello
+- Trello, Figma
 
 </details>
 
@@ -116,44 +120,43 @@ Trello
 
 <details closed><summary>Expand</summary>
 
+What components of your project will live on GitHub?
 
-- What components of your project will live on GitHub?
+- The Front and back end repo
 
-Our code
+How will you share the repository with your teammates?
 
-- How will you share the repository with your teammates?
+- Collaborative access
 
-All members of the group will be assigned collaborator roles on the github repo
+What is your Git flow?
 
-- What is your Git flow?
+- Dev -> 
+- Feature Branch -> 
+- Work on Feature -> PR to Dev -> 
+- Review & Approval -> 
+- Merge into Dev -> 
+- Delete Feature branch -> 
+- Merge Dev into Main
 
-We will have a developer branch -> 
-Each person creates a new branch from developer branch -> 
-works on a feature -> pushes to developer branch -> 
-other teammate reviews and approves -> 
-Merge into developer branch -> 
-delete feature of the day branch -> 
-merge into main branch
-
-- Will you be using a PR review workflow? If so, consider:
+Will you be using a PR review workflow? If so, consider:
 
 Yes
 
-  - How many people must review a PR?
+How many people must review a PR?
   
-  1 other teammate
+- 1 other teammate
   
-  - Who merges PRs?
+Who merges PRs?
   
-  Reviewer
+- Reviewer
   
-  - How often will you merge?
+How often will you merge?
   
-  At least once a day, or when a feature is complete
+- At least once a day, or when a feature is complete
   
-  - How will you communicate that it’s time to merge?
+How will you communicate that it’s time to merge?
   
-  We will communicate through Slack and Remo
+- We will communicate through Slack and Remo
 
 </details>
 
